@@ -32,6 +32,6 @@ client.on('messageCreate', async message => {
 })
 
 // logs in the bot to the channel
-client.login("MTAzMjAwODEzMjk3ODgyMzIyOA.Gaiz8J.45GR0l75pCLMVzbHcMRxq42QTk68RkCMnlZGS8");
+client.login("Your_Token_Here");
 
 
